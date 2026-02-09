@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SharlottaL/react_2/static/css/main.022c008e.css",
+    "main.js": "/SharlottaL/react_2/static/js/main.84692ba3.js",
+    "static/media/logo.svg": "/SharlottaL/react_2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SharlottaL/react_2/index.html",
+    "main.022c008e.css.map": "/SharlottaL/react_2/static/css/main.022c008e.css.map",
+    "main.84692ba3.js.map": "/SharlottaL/react_2/static/js/main.84692ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022c008e.css",
+    "static/js/main.84692ba3.js"
+  ]
+}
